@@ -2,8 +2,9 @@
 - Preparation for specific contest dates
 - World opening times table for each band, SP and LP
 
-Author: rin fukuda, jg1vgx@jarl.com, Oct 2004
-version 0.02, __for W6EL Prop v2.70 ONLY!!__
+    __for W6EL Prop v2.70 ONLY!!__
+
+Author: rin fukuda, jg1vgx@jarl.com
 
 Requirements
 ------------
