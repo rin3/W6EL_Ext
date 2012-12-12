@@ -1,9 +1,9 @@
 # Extraction and Report script for W6EL Prop
-# - Preparation for specific contest dates
-# - World opening times table for each band, SP and LP
-#
-# rin fukuda, jg1vgx@jarl.com, Oct 2004
-# version 0.02, for W6EL Prop v2.70 ONLY!!
+### - Preparation for specific contest dates
+### - World opening times table for each band, SP and LP
+###
+#### rin fukuda, jg1vgx@jarl.com, Oct 2004
+#### version 0.02, for W6EL Prop v2.70 ONLY!!
 
 Requirements
 ============
