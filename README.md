@@ -31,7 +31,7 @@ The table follows in order of 80, 40, 20, 15 and 10m. For each band, SP is follo
 - # 100-75%
 - + 75-50%
 - - 50-25%
-"Space" means 25% or less possibility of openings.
+- "Space" means 25% or less possibility of openings.
 
 IMPORTANT: Remember that, ONLY the possibility of openings but not signal levels are illustrated.
 
