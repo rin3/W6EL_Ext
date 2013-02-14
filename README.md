@@ -13,6 +13,7 @@ You need Perl package to run this script. If you are on Windows, use ActivePerl 
 W6EL Prop Settings
 ------------------
 This software __ONLY WORKS for W6EL Prop, version 2.70__.
+
 In W6EL Prop, Options:
 - [Default Teminal] = (any)
 - [Frequencies and Constants] = Five-band prediction, 80-10m is assumed. Use factory setting of 3.6, 7.1, 14.1, 21.2 and 28.3. You cannot add or remove any bands. Signal constants are changeable.
